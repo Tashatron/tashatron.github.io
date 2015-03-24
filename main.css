@@ -1,0 +1,38 @@
+.black-text {
+    font-size: 30px;
+    color: black;
+    font-style: italic;
+    font-family: font-family: 'Indie Flower', cursive;
+}
+
+P {
+    line-height: 150%;
+    color: #666666
+}
+
+h1 {
+    color: #FF0000;
+    font-size: 25px;
+    font-family: 'Indie Flower', cursive;
+}
+
+body {
+    background-color: #FFFFFF;
+    color: white;
+}
+
+.light-title-text {
+    font-size: 50px;
+    color: darkblue;
+    font-style: oblique;
+    font-family: 'Indie Flower', cursive;
+}
+
+.pink-text {
+    font-size: 30px;
+    color: pink;
+    font-style: normal;
+    font-family: 'Indie Flower', cursive;
+}
+
+/* Start http://www.cursors-4u.com */ body, a:hover {cursor: url(http://cur.cursors-4u.net/food/foo-5/foo438.cur), progress !important;} /* End http://www.cursors-4u.com */

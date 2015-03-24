@@ -1,0 +1,38 @@
+.purple-text {
+    font-size: 30px;
+    color: purple;
+    font-style: italic;
+    font-family: 'Swanky and Moo Moo', cursive;
+}
+
+P {
+    line-height: 150%;
+    color: #FFFFFF
+}
+
+h1 {
+    color: #FF0000;
+    font-size: 25px;
+    font-family: 'Lobster', cursive;
+}
+
+body {
+    background-color: skyblue;
+    color: white;
+}
+
+.light-title-text {
+    font-size: 50px;
+    color: darkblue;
+    font-style: oblique;
+    font-family: 'Swanky and Moo Moo', cursive;
+}
+
+.pink-text {
+    font-size: 30px;
+    color: pink;
+    font-style: normal;
+    font-family: 'Swanky and Moo Moo', cursive;
+}
+
+/* Start http://www.cursors-4u.com */ body, a:hover {cursor: url(http://cur.cursors-4u.net/games/gam-12/gam1191.cur), progress !important;} /* End http://www.cursors-4u.com */
